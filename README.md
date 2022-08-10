@@ -1,0 +1,2 @@
+# anamolyDetection
+Unzip the data
